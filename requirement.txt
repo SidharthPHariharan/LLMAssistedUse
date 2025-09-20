@@ -1,0 +1,8 @@
+fastmcp
+pyautogui
+pillow
+opencv-python
+
+langchain_ollama
+langchain_mcp_adapters
+langchain_ibm
